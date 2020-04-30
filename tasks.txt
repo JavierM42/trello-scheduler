@@ -1,21 +1,26 @@
-* * 28 * * Sarasa
-* * 29 * * Testeo una vez
-* * * * 5 Cambiar sábanas
-* * 1/15 * * Aspirar Alfombra del Living
-* * * * 1 Pasar trapo seco a electrodomésticos en cuarto de Javier
-* * * * 2 Dar una pasada adentro del microondas
-* * 1 * * Limpiar lavavajillas
-* * 10 * * Limpiar lavarropas
-* * 1 1/2 * Vaciar aspiradora y lavar filtro
+* * 30 4 4 Jueves 30 de abril
+* * * * 3 Pasar trapo seco a electrodomésticos en cuarto de Javier
+* * * * 5 Dar una pasada adentro del microondas
+* * 1 * * Aspirar alfombra del living
+* * 6 * * Limpiar lavavajillas a fondo, especialmente filtros, la goma de la puerta y las aspas que giran, luego poner el modo de autolimpieza
+* * 18 * * Limpiar filtros del lavavajillas
+* * 12 * * Revisar el nivel de aditivo del lavajillas y rellenar si es necesario
+* * 18 * * Limpiar tostadora por dentro
+* * 24 * * Limpiar lámparas: mesa de luz de javier, las dos de las cocinas, la del baño chico, las de los livings
+* * 3 * * Limpiar lavarropas
+* * 9 1/3 * Vaciar aspiradora y lavar filtro
+* * 9 2/3 * Limpiar detrás de heladeras, horno, microondas y lavavajillas
+* * 9 3/3 * Tirar por la pileta un poco de agua hirviendo con vinagre para evitar que se formen coágulos de grasa.
 * * 15 1/3 * Limpiar filtros de aires acondicionados
-* * 12 2/6 * Limpiar heladeras y freezers por dentro
-* * 1 * * Limpiar lámparas: mesa de luz de javier, las dos de las cocinas, la del baño chico, las de los livings
-* * 25 1/3 * Baldear patio
-* * 5 3/6 * Pasar aspiradora en colchones
-* * 2 1/4 * Lavar tacho de la basura
-* * 1 2/6 * Aspirar sillones
-* * 3 1/3 * Tirar por la pileta un poco de agua hirviendo con vinagre para evitar que se formen coágulos de grasa.
-* * 8 * * Limpiar tostadora por dentro
-* * 1 1/6 * Limpiar ventilador de techo
-* * 3 2/6 * Lavar escobas
-* * 4 1/6 * Limpiar despensa
+* * 15 2/3 * Baldear patio
+* * 15 3/3 * Lavar tacho de la basura
+* * 21 1/6 * Aspirar rieles de ventanas de aluminio: baño, cerramiento, baño del lavadero.
+* * 21 2/6 * Limpiar ventilador de techo
+* * 21 2/6 * Lavar escobas
+* * 21 3/6 * Aspirar sillones
+* * 21 4/6 * Limpiar heladeras y freezers por dentro
+* * 21 5/6 * Limpiar despensa
+* * 21 6/6 * Hidrolavar persianas por afuera
+* * 27 1 * Encerar living
+* * 27 5 * Encerar pasillo y cuartos
+* * 27 9 * Encerar living chico, pasillo y cuarto del fondo

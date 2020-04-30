@@ -9,7 +9,7 @@ input_file_path = 'tasks.txt'
 trello_key = '11322ff4ec5de9332fd310f66fc8f314'
 trello_token = '8907a912c0c4230642f98aaaa83f4b69fae16ce6e81f2763c60f594481e1ba9f'
 
-list_id = '5ea37d5a04b0754aea510964'
+list_id = '5e80acbec0a8ab66bb2a3fac'
 
 def create_card(name, list_id):
 	url = "https://api.trello.com/1/cards"
