@@ -2,9 +2,9 @@
 * * * * 3 Pasar trapo seco a electrodomésticos en cuarto de Javier
 * * * * 5 Dar una pasada adentro del microondas
 * * 1 * * Aspirar alfombra del living
-* * 6 * * Limpiar lavavajillas a fondo, especialmente filtros, la goma de la puerta y las aspas que giran, luego poner el modo de autolimpieza
-* * 18 * * Limpiar filtros del lavavajillas
-* * 12 * * Revisar el nivel de aditivo del lavajillas y rellenar si es necesario
+* * 6 * * Limpiar lavavajillas a fondo, especialmente filtros (pedime y lo desarmo), la goma de la puerta y las aspas que giran, luego poner el modo de autolimpieza
+* * 18 * * Limpiar filtros del lavavajillas (pedime y lo desarmo)
+* * 12 * * Revisar el nivel de aditivo del lavavajillas y rellenar si es necesario
 * * 18 * * Limpiar tostadora por dentro
 * * 24 * * Limpiar lámparas: mesa de luz de javier, las dos de las cocinas, la del baño chico, las de los livings
 * * 3 * * Limpiar lavarropas
