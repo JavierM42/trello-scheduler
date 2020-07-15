@@ -1,4 +1,4 @@
-* * 30 4 4 Jueves 30 de abril
+* * * * 1 Revisar lista de compras y encargar cosas faltantes
 * * * * 3 Pasar trapo seco a electrodomésticos en cuarto de Javier
 * * * * 5 Dar una pasada adentro del microondas
 * * 1 * * Aspirar alfombra del living
@@ -21,6 +21,7 @@
 * * 21 4/6 * Limpiar heladeras y freezers por dentro
 * * 21 5/6 * Limpiar despensa
 * * 21 6/6 * Hidrolavar persianas por afuera
+* * 21 6/6 * Limpiar horno
 * * 27 1 * Encerar living
 * * 27 5 * Encerar pasillo y cuartos
 * * 27 9 * Encerar living chico, pasillo y cuarto del fondo
