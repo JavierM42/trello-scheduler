@@ -2,12 +2,13 @@
 * * * * 3 Pasar trapo seco a electrodomésticos en cuarto de Javier
 * * * * 5 Dar una pasada adentro del microondas
 * * 1 * * Aspirar alfombra del living
+* * 3 * * Limpiar lavarropas
 * * 6 * * Limpiar lavavajillas a fondo, especialmente filtros (pedime y lo desarmo), la goma de la puerta y las aspas que giran, luego poner el modo de autolimpieza
 * * 18 * * Limpiar filtros del lavavajillas (pedime y lo desarmo)
 * * 12 * * Revisar el nivel de aditivo del lavavajillas y rellenar si es necesario
 * * 18 * * Limpiar tostadora por dentro
 * * 24 * * Limpiar lámparas: mesa de luz de javier, las dos de las cocinas, la del baño chico, las de los livings
-* * 3 * * Limpiar lavarropas
+* * 27 * * Poner a funcionar la cafetera negra con mitad agua y mitad vinagre. Después ponerla a funcionar de nuevo con agua sola dos veces.
 * * 9 1/3 * Vaciar aspiradora y lavar filtro
 * * 9 2/3 * Limpiar detrás de heladeras, horno, microondas y lavavajillas
 * * 9 3/3 * Tirar por la pileta un poco de agua hirviendo con vinagre para evitar que se formen coágulos de grasa.
