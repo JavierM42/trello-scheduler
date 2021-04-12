@@ -3,6 +3,7 @@
 * * * * 5 Dar una pasada adentro del microondas
 * * 1 * * Aspirar alfombra del living
 * * 1/10 * * Pasar trapo seco a electrodomésticos en cuarto de Javier
+* * */15 * * Apagar la cafetera con la llavecita. Desarmarla y limpiar por dentro con agua fría o tibia.
 * * 3 * * Limpiar lavarropas
 * * 6 * * Limpiar lavavajillas a fondo, especialmente filtros (pedime y lo desarmo), la goma de la puerta y las aspas que giran, luego poner el modo de autolimpieza
 * * 12 * * Revisar el nivel de aditivo del lavavajillas y rellenar si es necesario
