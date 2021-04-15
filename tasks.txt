@@ -2,6 +2,7 @@
 * * * * 3 Limpiar el tubo de la leche de la cafetera y la bandeja del agua y el café utilizado.
 * * * * 5 Dar una pasada adentro del microondas
 * * 1 * * Aspirar alfombra del living
+* * 1/5 * * Regar tunitas del número de puerta con poquita agua
 * * 1/10 * * Pasar trapo seco a electrodomésticos en cuarto de Javier
 * * */15 * * Apagar la cafetera con la llavecita. Desarmarla y limpiar por dentro con agua fría o tibia.
 * * 3 * * Limpiar lavarropas
