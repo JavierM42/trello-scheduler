@@ -10,6 +10,7 @@
 * * 12 * * Revisar el nivel de aditivo del lavavajillas y rellenar si es necesario
 * * 15 * * Limpiar tostadora por dentro
 * * 18 * * Limpiar filtros del lavavajillas (pedime y lo desarmo)
+* * 21 * * Limpiar los rieles y destapar el desagüe de las puertas de aluminio del fondo
 * * 27 * * Poner un vaso de agua con un chorrito de jugo de limón en el microondas durante 10 minutos, luego limpiar microondas por dentro
 * * 1 * * Vaciar la aspiradora robot, enjuagar el depósito, lavar y cambiar el filtro, darla vuelta y limpiar el rodillo.
 * * 1 * * Limpiar la ruedita chica de la aspiradora robot con un trapo, y el cepillo en estrella que se destornilla y se vuelve a colocar.
