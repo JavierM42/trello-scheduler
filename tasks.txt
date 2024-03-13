@@ -38,3 +38,4 @@
 * * 27 1 * Encerar living
 * * 27 5 * Encerar pasillo y cuartos
 * * 27 9 * Encerar living chico, pasillo y cuarto del fondo
+* * 6 3/4 * Limpiar extractor de cocina
