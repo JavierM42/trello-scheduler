@@ -19,6 +19,7 @@
 * * 15 * * Vaciar la aspiradora robot, enjuagar el depósito, cambiar el filtro, darla vuelta y limpiar el rodillo
 * * 20 * * Vaciar la aspiradora robot
 * * 25 * * Vaciar la aspiradora robot, darla vuelta y limpiar el rodillo
+* * 25 * * Barrer las hojas que hayan dentro de las puertas de la calefacción
 * * 1 1/2 * Vaciar y limpiar filtro de pelusa del lavarropas
 * * 9 1/3 * Vaciar aspiradora, lavar contenedor del polvo, el filtro de adelante y el de atrás
 * * 9 1/3 * Aspirar rieles de ventanas de aluminio: baño, cerramiento, baño del lavadero, cocina grande.
