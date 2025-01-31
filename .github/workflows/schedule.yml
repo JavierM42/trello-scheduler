@@ -1,7 +1,7 @@
 name: Schedule Trello Tasks
 on:
   schedule:
-    - cron: "0 12 * * *"  # Runs daily at 12 PM UTC
+    - cron: "22 21 * * *"  # Runs daily at 21:22 UTC
 jobs:
   run-script:
     runs-on: ubuntu-latest
