@@ -17,8 +17,8 @@
 * * 15 1/4 * Limpiar filtros de aires acondicionados
 * * 15 3/3 * Lavar tacho de la basura
 * * 21 2/6 * Lavar escobas
-* * 21 4/6 * Limpiar heladeras y freezers por dentro
-* * 21 5/6 * Limpiar despensa
+* * 21 4/6 * Limpiar heladera y freezer por dentro
+* * 21 5/6 * Limpiar despensa y cajon de las especias
 * * 21 6/6 * Hidrolavar persianas por afuera, ojo con los sensores de alarma
 * * 21 6/6 * Limpiar horno
 * * 6 3/4 * Limpiar extractor de cocina
