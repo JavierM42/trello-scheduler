@@ -1,6 +1,6 @@
 * * 1 * * Apagar la cafetera con la llavecita. Desarmarla y limpiar por dentro con agua fría o tibia.
 * * 6 * * Limpiar lavavajillas a fondo, especialmente filtros, la goma de la puerta y las aspas que giran, luego poner el modo de autolimpieza
-* * 12 * * Revisar el nivel de aditivo del lavavajillas y rellenar si es necesario
+* * 6 * * Revisar el nivel de aditivo del lavavajillas y rellenar si es necesario
 * * 15 * * Limpiar tostadora por dentro
 * * 18 * * Limpiar filtros del lavavajillas
 * * 21 * * Limpiar los rieles y destapar el desagüe de las puertas de aluminio del fondo
@@ -8,11 +8,12 @@
 * * 1 * * Vaciar la aspiradora robot, enjuagar el depósito, lavar y cambiar el filtro, darla vuelta y limpiar el rodillo.
 * * 27 * * Meter el vasito de cepillos de dientes en el lavavajillas
 * * 1 2/2 * Limpiar el sifon de la pileta de la cocina
+* * 1 * * Pasar la mopa con agua con fabuloso por el parquet
 * * 1 1/3 * Vaciar y limpiar filtro de pelusa del lavarropas
 * * 9 1/4 * Vaciar aspiradora, lavar contenedor del polvo, el filtro de adelante y el de atrás
-* * 9 2/3 * Limpiar detrás de heladeras, horno, microondas y lavavajillas
-* * 9 1/3 * Aspirar rieles de ventanas de aluminio: baño, cerramiento, baño del lavadero, cocina grande.
-* * 9 2/3 * Limpiar lámparas: mesa de luz de javier, las dos de las cocinas, la del baño chico, las de los livings
+* * 9 2/3 * Limpiar detrás de heladera y microondas, pedime y movemos la heladera
+* * 9 1/3 * Aspirar rieles de ventanas de aluminio: baño, cerramiento, baño del lavadero, cuarto, oficina.
+* * 9 2/3 * Limpiar lámparas: mesa de luz de javier, las colgante de la barra de las cocina, la del baño chico, la del living
 * * 9 3/3 * Tirar por la pileta un poco de agua hirviendo con vinagre para evitar que se formen coágulos de grasa.
 * * 15 1/4 * Limpiar filtros de aires acondicionados
 * * 15 3/3 * Lavar tacho de la basura
